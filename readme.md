@@ -25,10 +25,16 @@ In essence, Fairyland is a sanctuary where imaginations run wild, and the journe
 - CSS
 - JavaScript
 
-## Authors
+---
 
-- Siddharth Yadav
-  -  Email: [siddharthdis3432@gmail.com](mailto:siddharthdis3432@gmail.com)
+## 🔗 Live Demo
+
+👉 [Click here to view the live site](https://cyberlordsy.github.io/Fairyland/)
+
+> *CyberLordSY*
+
+
+
 
 ## License
 
